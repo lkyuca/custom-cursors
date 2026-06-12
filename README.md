@@ -1,1 +1,3 @@
-maak hier een sc van met de red cursor <img width="1118" height="842" alt="image" src="https://github.com/user-attachments/assets/008ccf49-fabd-4edc-8c5a-065d18a499a3" />
+# for example the rednotial file looks like this 
+
+<img width="775" height="1192" alt="afbeelding" src="https://github.com/user-attachments/assets/594c8e72-00d1-414c-aa4a-7ed1b77d05e7" />
